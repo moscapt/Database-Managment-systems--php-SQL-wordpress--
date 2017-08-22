@@ -1,0 +1,37 @@
+.mytable td, .mytable th {
+    margin: 0 !important;
+    border: 1px solid black!important;
+    padding: 0px !important;
+    font-size: 12px  !important;
+    /*height: 40px;*/
+}
+
+.container{
+	width: 100% !important;
+}
+
+ th {
+     background-color: lightseagreen!important;
+     color: black!important;
+     border: 1px solid black!important;
+     text-align: center !important; 
+     text-shadow: 5px 5px 5px #808080 !important;
+
+	}
+
+table {
+     border-collapse: collapse !important; 
+     width: auto!important; 
+     text-align: center !important; 
+     border: 2px solid black!important;
+}	
+
+td{
+	
+	 height: 20px !important;
+     border: 1px solid black!important;
+     background-color: azure !important;
+     border-collapse: collapse !important; 
+}
+
+.
